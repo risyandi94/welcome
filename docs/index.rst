@@ -1,5 +1,5 @@
 BOLALOB DOCUMENTATION
-========
+=====================
 
 Translations
 ------------
