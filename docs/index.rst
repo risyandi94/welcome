@@ -26,7 +26,7 @@ Nunc ut sollicitudin quam, vitae iaculis erat. Suspendisse rutrum id dolor sit a
 Contents
 ========
 
-:ref:`Keyword Index <genindex>`, :ref:`Search Page <search>`
+:ref:`Kata Kunci <genindex>`, :ref:`Pencarian <search>`
 
 .. toctree::
    :maxdepth: 2
