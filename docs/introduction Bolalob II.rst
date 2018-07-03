@@ -1,5 +1,5 @@
 ###############################
-Introduction to Smart Contracts
+Introduction Bolalob II
 ###############################
 
 .. _simple-smart-contract:
