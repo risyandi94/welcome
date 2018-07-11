@@ -26,10 +26,11 @@ Nunc ut sollicitudin quam, vitae iaculis erat. Suspendisse rutrum id dolor sit a
 Contents
 ========
 
-:ref:`Kata Kunci <genindex>`, :ref:`Pencarian <search>`
+:ref:`Keyword <genindex>`, :ref:`Search <search>`
 
 .. toctree::
    :maxdepth: 2
 
  introduction Bolalob II.rst
  introduction Bolalob.rst
+ structure element.rst
