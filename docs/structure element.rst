@@ -3,7 +3,7 @@
 
 .. demo.rst from: http://docutils.sourceforge.net/docs/user/rst/demo.txt
 
-.. |EXAMPLE| image:: static/Geniee_NativeAds_300x50.png
+.. |EXAMPLE| image:: static/Geniee_NativeAds_300x50.PNG
    :width: 1em
 
 **********************
@@ -202,7 +202,7 @@ Sidebar
 
 .. sidebar:: Ch'ien / The Creative
 
-    .. image:: static/Geniee_NativeAds_300x50.png
+    .. image:: static/Geniee_NativeAds_300x50.PNG
 
     *Above* CH'IEN THE CREATIVE, HEAVEN
 
@@ -343,13 +343,13 @@ Images
 
 An image directive (also clickable -- a hyperlink reference):
 
-.. image:: static/Geniee_NativeAds_300x50.png
+.. image:: static/Geniee_NativeAds_300x50.PNG
    :target: directives_
 
 Figures
 ^^^^^^^
 
-.. figure:: static/Geniee_NativeAds_300x50.png
+.. figure:: static/Geniee_NativeAds_300x50.PNG
    :alt: reStructuredText, the markup syntax
 
    A figure is an image with a caption and/or a legend:
@@ -366,7 +366,7 @@ Figures
 
 A figure directive with center alignment
 
-.. figure:: static/Geniee_NativeAds_300x50.png
+.. figure:: static/Geniee_NativeAds_300x50.PNG
    :align: center
 
    This caption should be centered.
@@ -472,4 +472,4 @@ with the "compound" directive.
 Download Links
 ==============
 
-:download:`This long long long long long long long long long long long long long long long download link should be blue, normal weight text with a leading icon, and should wrap white-spaces <static/Geniee_NativeAds_300x50.png>`
+:download:`This long long long long long long long long long long long long long long long download link should be blue, normal weight text with a leading icon, and should wrap white-spaces <static/Geniee_NativeAds_300x50.PNG>`
