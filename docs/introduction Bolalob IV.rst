@@ -26,7 +26,7 @@ Code Sample I
 Code Sample II
 ==============
 
-.. code:: javascript
+.. code-block:: javascript
     :linenos:
     :emphasize-lines: 3,5
     
