@@ -143,6 +143,7 @@ added to the mapping or use it in a context where this is not needed,
 like this one. The :ref:`getter function<getter-functions>` created by the ``public`` keyword
 is a bit more complex in this case. It roughly looks like the
 following
+
 .. code:: javascript
 
     function balances(address _account) public view returns (uint) {
