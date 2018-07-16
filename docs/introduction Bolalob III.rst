@@ -5,6 +5,7 @@ Introduction Bolalob III
 Code Sample I
 =============
 .. code:: html 
+
     <!DOCTYPE html>
     <html lang="en">
     <head>
