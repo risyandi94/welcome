@@ -13,7 +13,7 @@ Windows
 ~~~~~~~
 * Git Version 2.17.1
 * Java Development Kit (JDK) Version 7 up to 8
-* Postgresql
+* Postgresql Database
 * IDE Spring Tools Suite
 * Thymeleaf
 * Spring Framework 
@@ -22,7 +22,7 @@ Linux
 ~~~~~
 * Git Version 2.17.1
 * Java Development Kit (JDK) Version 7 up to 8
-* Postgresql
+* Postgresql Database
 * IDE Spring Tools Suite
 * Thymeleaf
 * Spring Framework 
@@ -31,7 +31,7 @@ MacOS
 ~~~~~
 * Git Version 2.17.1
 * Java Development Kit (JDK) Version 7 up to 8
-* Postgresql
+* Postgresql Database
 * IDE Spring Tools Suite
 * Thymeleaf
 * Spring Framework 
@@ -70,7 +70,7 @@ Nunc ut sollicitudin quam, vitae iaculis erat. Suspendisse rutrum id dolor sit a
 Contents
 ========
 
-:ref:`Keyword <genindex>`
+:ref:`Keyword <genindex>` or 
 :ref:`Search <search>`
 
 .. toctree::
