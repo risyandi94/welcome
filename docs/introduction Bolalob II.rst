@@ -14,9 +14,7 @@ right now, we will go into more detail later.
 Storage
 =======
 
-::
-
-    pragma solidity ^0.4.0;
+.. code:: javascript
 
     contract SimpleStorage {
         uint storedData;
@@ -78,9 +76,7 @@ Furthermore, anyone can send coins to each other without any need for
 registering with username and password — all you need is an Ethereum keypair.
 
 
-::
-
-    pragma solidity >0.4.24;
+.. code:: javascript
 
     contract Coin {
         // The keyword "public" makes those variables
