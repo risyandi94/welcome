@@ -27,7 +27,9 @@ Code Sample II
 ==============
 
 .. code:: javascript
-
+    :linenos:
+    :emphasize-lines: 3,5
+    
     example_function {
         // The keyword "public" makes those variables
         // readable from outside.
