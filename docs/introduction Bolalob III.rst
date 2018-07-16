@@ -4,7 +4,7 @@ Introduction Bolalob III
 
 Code Sample I
 =============
-.. code-block:: html 
+.. code:: html 
     <!DOCTYPE html>
     <html lang="en">
     <head>
@@ -24,7 +24,7 @@ Code Sample I
 Code Sample II
 ==============
 
-::
+.. code:: javascript
 
     example_function {
         // The keyword "public" makes those variables

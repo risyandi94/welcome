@@ -2,7 +2,7 @@
 Introduction Bolalob IV
 ###############################
 
-:: 
+.. code:: html
 
     <!DOCTYPE html>
     <html lang="en">
@@ -23,7 +23,7 @@ Introduction Bolalob IV
 Code Sample II
 ==============
 
-::
+.. code:: javascript
 
     example_function {
         // The keyword "public" makes those variables
