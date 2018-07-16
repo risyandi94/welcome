@@ -14,7 +14,7 @@ right now, we will go into more detail later.
 Storage
 =======
 
-::
+.. code:: javascript
 
     pragma solidity ^0.4.0;
 
