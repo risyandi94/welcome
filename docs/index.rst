@@ -70,12 +70,13 @@ Nunc ut sollicitudin quam, vitae iaculis erat. Suspendisse rutrum id dolor sit a
 Contents
 ========
 
-:ref:`Keyword <genindex>` or 
-:ref:`Search <search>`
+:ref:`Keyword <genindex>`
 
 .. toctree::
    :maxdepth: 2
 
+ introduction Bolalob I.rst
  introduction Bolalob II.rst
- introduction Bolalob.rst
+ introduction Bolalob III.rst
+ introduction Bolalob IV.rst
  structure element.rst
