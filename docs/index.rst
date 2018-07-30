@@ -7,7 +7,6 @@ Getting Started
 Hello welcome to documentation bolalob! 
 We are excited that you want to learn bolalob environment and how we build sites bolalob. 
 
-
 Get Started Tutorial teaches you how to :
 
 1.  About bolalob
@@ -23,31 +22,31 @@ Table Of Contents
 .. _table-content-1:
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: About Bolalob
 
-about_bolalob
+about_bolalob.rst
 
 .. _table-content-2:
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Prerequisite bolalob environment
 
-prerequisite_bolalob
+prerequisite_bolalob.rst
 
 .. _table-content-3:
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: How to run a project in localhost
 
-run_project_bolalob
+run_project_bolalob.rst
 
 .. _table-content-4:
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: How to running multiple projects in one server localhost
 
-run_multiple_project_bolalob
+run_multiple_project_bolalob.rst
