@@ -23,8 +23,8 @@ Table Of Contents
 
 .. toctree::
    :maxdepth: 2
-
-    about_bolalob.rst
-    prerequisite_bolalob.rst
-    run_project_bolalob.rst
-    run_multiple_project_bolalob.rst
+   
+about_bolalob
+prerequisite_bolalob
+run_project_bolalob
+run_multiple_project_bolalob
