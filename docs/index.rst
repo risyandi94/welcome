@@ -25,28 +25,7 @@ Table Of Contents
    :maxdepth: 2
    :caption: About Bolalob
 
-    about_bolalob
-
-.. _table-content-2:
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Prerequisite bolalob environment
-
-    prerequisite_bolalob
-
-.. _table-content-3:
-
-.. toctree::
-   :maxdepth: 2
-   :caption: How to run a project in localhost
-
-    run_project_bolalob
-
-.. _table-content-4:
-
-.. toctree::
-   :maxdepth: 2
-   :caption: How to running multiple projects in one server localhost
-
-    run_multiple_project_bolalob
+    about_bolalob.rst
+    prerequisite_bolalob.rst
+    run_project_bolalob.rst
+    run_multiple_project_bolalob.rst
