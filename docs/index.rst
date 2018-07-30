@@ -23,7 +23,6 @@ Table Of Contents
 
 .. toctree::
    :maxdepth: 2
-   :caption: About Bolalob
 
     about_bolalob.rst
     prerequisite_bolalob.rst
