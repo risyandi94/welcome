@@ -20,6 +20,7 @@ Table Of Contents
 :ref:`Keyword <genindex>`
 
 .. _table-content-1:
+
 .. toctree::
    :maxdepth: 2
    :caption: About Bolalob
@@ -27,6 +28,7 @@ Table Of Contents
 about_bolalob
 
 .. _table-content-2:
+
 .. toctree::
    :maxdepth: 2
    :caption: Prerequisite bolalob environment
@@ -34,6 +36,7 @@ about_bolalob
 prerequisite_bolalob
 
 .. _table-content-3:
+
 .. toctree::
    :maxdepth: 2
    :caption: How to run a project in localhost
@@ -41,6 +44,7 @@ prerequisite_bolalob
 run_project_bolalob
 
 .. _table-content-4:
+
 .. toctree::
    :maxdepth: 2
    :caption: How to running multiple projects in one server localhost
