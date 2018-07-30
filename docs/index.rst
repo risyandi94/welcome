@@ -1,8 +1,12 @@
 Getting Started
 ===============
 
+.. figure:: static/bolalob_logo.png
+   :align: center
+
 Hello welcome to documentation bolalob! 
 We are excited that you want to learn bolalob environment and how we build sites bolalob. 
+
 
 Get Started Tutorial teaches you how to:
 1.	About bolalob
