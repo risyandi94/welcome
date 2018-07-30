@@ -25,7 +25,7 @@ Table Of Contents
    :maxdepth: 2
    :caption: About Bolalob
 
-about_bolalob.rst
+    about_bolalob
 
 .. _table-content-2:
 
@@ -33,7 +33,7 @@ about_bolalob.rst
    :maxdepth: 2
    :caption: Prerequisite bolalob environment
 
-prerequisite_bolalob.rst
+    prerequisite_bolalob
 
 .. _table-content-3:
 
@@ -41,7 +41,7 @@ prerequisite_bolalob.rst
    :maxdepth: 2
    :caption: How to run a project in localhost
 
-run_project_bolalob.rst
+    run_project_bolalob
 
 .. _table-content-4:
 
@@ -49,4 +49,4 @@ run_project_bolalob.rst
    :maxdepth: 2
    :caption: How to running multiple projects in one server localhost
 
-run_multiple_project_bolalob.rst
+    run_multiple_project_bolalob
