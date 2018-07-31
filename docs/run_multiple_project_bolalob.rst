@@ -2,10 +2,9 @@
 How to running multiple projects in one server localhost
 ##########################################################
 
-How to running multiple projects in one server localhost
-========================================================
 On bolalob, we have several projects that are bolalob sites, bolalob TV and bolalob SI.
-If we want running the project together on localhost, first you should setup the file build.gradle for example :
+If we want running the project together on localhost, first you should setup the file build.gradle for example:
+
 a.  Open file ``build.gradle`` bolalob-sites, edit file setup and change the number of ``server.port``. 
 
 .. figure:: static/build_gradle_port1.png

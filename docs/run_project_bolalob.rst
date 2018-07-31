@@ -2,8 +2,6 @@
 How to running project in your localhost
 ##########################################
 
-How to running project in your localhost
-========================================
 If you have been installing several Prerequisite previously which is explained on the above, for running the project in the localhost, follow this step will be explained as such:
 
 1.  Firstly you should sign into your GitHub account, for clone or download the project bolalob which is in Github.

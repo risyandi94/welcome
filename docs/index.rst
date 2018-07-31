@@ -9,10 +9,10 @@ We are excited that you want to learn bolalob environment and how we build sites
 
 Get Started Tutorial teaches you how to :
 
-1.  About bolalob
-2.	Prerequisite bolalob environment
-3.	How to run a project in localhost
-4.	How to running multiple projects in one server localhost 
+* About bolalob
+* Prerequisite bolalob environment
+* How to run a project in localhost
+* How to running multiple projects in one server localhost 
 
 Table Of Contents
 -----------------
