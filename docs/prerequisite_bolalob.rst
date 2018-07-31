@@ -2,8 +2,8 @@
 Prerequisite bolalob environment
 ##################################
 
-2.	Prerequisite bolalob environment
-====================================
+Prerequisite bolalob environment
+================================
 
 Before you starting running the bolalob sites in your computer, you must check and install several application, to see that you have qualify hardware and software need for running the project on your operating system. The requirements for each type of operating system are detailed in the following sections:
 
